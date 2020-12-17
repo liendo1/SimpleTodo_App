@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+At first, I kept failing to add the delete option for the list because when writing the code, I clicked the wrong suggestions that Android Studio gave me. This error took me hours to fix, I had to make this app 4 times until I found out what the simple error I was doing. Resolving this make me more caution when writing code.
 
 ## License
 
